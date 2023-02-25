@@ -6,14 +6,14 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1424CCD9-36F2-4B8D-ADA9-181683855EE1</key>
+		<key>3483268D-24FB-4532-B0D6-B8D9FA14CF66</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F795F2D0-7A45-4698-AAF0-81831D86AD05</string>
+			<string>78CAAE27-38A5-4225-9246-A69B2DB6E51D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -22,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-FoodScaner-2023.02.19_10-38-38-+0300.xcresult</string>
+			<string>Run-FoodScaner-2023.02.23_10-01-18-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -32,7 +32,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>FoodScaner project</string>
@@ -43,18 +43,18 @@
 			<key>signature</key>
 			<string>Run FoodScaner</string>
 			<key>timeStartedRecording</key>
-			<real>698528318.82325101</real>
+			<real>698871678.85631895</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>1424CCD9-36F2-4B8D-ADA9-181683855EE1</string>
+			<string>3483268D-24FB-4532-B0D6-B8D9FA14CF66</string>
 		</dict>
-		<key>79CD244B-C35E-4A8F-80FF-D13E294D8BFA</key>
+		<key>6C657F78-C7A1-4FEE-929D-B23C88F1D3AB</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>98853463-3FE3-49C9-9EC0-BB0726E643F7</string>
+			<string>6D40EE24-A46A-46E9-AE53-C181BA2AA77D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-FoodScaner-2023.02.19_10-41-08-+0300.xcresult</string>
+			<string>Run-FoodScaner-2023.02.25_10-07-42-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -88,18 +88,18 @@
 			<key>signature</key>
 			<string>Run FoodScaner</string>
 			<key>timeStartedRecording</key>
-			<real>698528468.95029294</real>
+			<real>699044862.58798599</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>79CD244B-C35E-4A8F-80FF-D13E294D8BFA</string>
+			<string>6C657F78-C7A1-4FEE-929D-B23C88F1D3AB</string>
 		</dict>
-		<key>99467505-B8B2-413E-88D1-3684AE33AEDA</key>
+		<key>C4A57E7D-3D90-41C3-991B-220BECC6874D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7818FDDF-08A2-478A-86F1-9314199DE9B4</string>
+			<string>1AB113BB-28F4-4222-A0C2-66CCF55B7424</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -112,7 +112,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-FoodScaner-2023.02.19_10-38-46-+0300.xcresult</string>
+			<string>Run-FoodScaner-2023.02.25_9-46-51-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -133,18 +133,18 @@
 			<key>signature</key>
 			<string>Run FoodScaner</string>
 			<key>timeStartedRecording</key>
-			<real>698528326.57132804</real>
+			<real>699043611.87045896</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>99467505-B8B2-413E-88D1-3684AE33AEDA</string>
+			<string>C4A57E7D-3D90-41C3-991B-220BECC6874D</string>
 		</dict>
-		<key>C5B063F7-BFB0-4230-AF93-976254D10569</key>
+		<key>D0DFE969-22F1-4D39-BCC7-10D016BA8830</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>13C9882D-F510-4A07-B558-7AE53001A961</string>
+			<string>9FA758D7-592D-4DE9-BF12-E0791B828794</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -157,7 +157,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-FoodScaner-2023.02.19_10-39-35-+0300.xcresult</string>
+			<string>Run-FoodScaner-2023.02.25_9-46-31-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -167,7 +167,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>FoodScaner project</string>
@@ -178,18 +178,18 @@
 			<key>signature</key>
 			<string>Run FoodScaner</string>
 			<key>timeStartedRecording</key>
-			<real>698528375.99684894</real>
+			<real>699043591.12559199</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>C5B063F7-BFB0-4230-AF93-976254D10569</string>
+			<string>D0DFE969-22F1-4D39-BCC7-10D016BA8830</string>
 		</dict>
-		<key>D955B4BD-8C85-4C8F-9FCD-52FBAC7B9314</key>
+		<key>E49838AC-AD48-4B99-8668-425B7F23A78A</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>0B4F999A-7E2C-432D-AD2D-548D2B0EDAE1</string>
+			<string>5AEC7B59-1FBB-4693-92C1-E47F0D2365C9</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -202,7 +202,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-FoodScaner-2023.02.19_10-40-59-+0300.xcresult</string>
+			<string>Run-FoodScaner-2023.02.25_9-47-10-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -223,58 +223,13 @@
 			<key>signature</key>
 			<string>Run FoodScaner</string>
 			<key>timeStartedRecording</key>
-			<real>698528459.27191305</real>
+			<real>699043630.570544</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>D955B4BD-8C85-4C8F-9FCD-52FBAC7B9314</string>
-		</dict>
-		<key>F4C87A9F-6124-4829-9CD7-F299D7AA62E8</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>6F1E9CE3-2836-4739-ADDC-25D841DCD01F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-FoodScaner-2023.02.19_10-39-23-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>FoodScaner project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>FoodScaner</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run FoodScaner</string>
-			<key>timeStartedRecording</key>
-			<real>698528363.82587504</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>F4C87A9F-6124-4829-9CD7-F299D7AA62E8</string>
+			<string>E49838AC-AD48-4B99-8668-425B7F23A78A</string>
 		</dict>
 	</dict>
 </dict>

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>04CBE43A-3485-4580-B343-817990D97D05</key>
+		<key>242F8D7D-BF54-4C17-9046-63E537778EF6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,63 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>04CBE43A-3485-4580-B343-817990D97D05.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528326.57149398</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>04CBE43A-3485-4580-B343-817990D97D05</string>
-		</dict>
-		<key>089901D2-ED63-46B7-B208-1D1710078CEF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>089901D2-ED63-46B7-B208-1D1710078CEF.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528115.742643</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>089901D2-ED63-46B7-B208-1D1710078CEF</string>
-		</dict>
-		<key>0EEDE72A-60C0-41BE-967F-2057E3D5C9EF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0EEDE72A-60C0-41BE-967F-2057E3D5C9EF.xcactivitylog</string>
+			<string>242F8D7D-BF54-4C17-9046-63E537778EF6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,15 +26,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528375.99696803</real>
+			<real>699043591.12606704</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>699043592.79135096</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>0EEDE72A-60C0-41BE-967F-2057E3D5C9EF</string>
+			<string>242F8D7D-BF54-4C17-9046-63E537778EF6</string>
 		</dict>
-		<key>2E2B5A39-FB12-4D28-A0DB-311A3C6AFDB6</key>
+		<key>26D9A9A4-8EC1-458D-AA14-EF923ABD3F36</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2E2B5A39-FB12-4D28-A0DB-311A3C6AFDB6.xcactivitylog</string>
+			<string>26D9A9A4-8EC1-458D-AA14-EF923ABD3F36.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -110,15 +54,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>698528318.82333803</real>
+			<real>699043611.87067294</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>699043611.92449296</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>2E2B5A39-FB12-4D28-A0DB-311A3C6AFDB6</string>
+			<string>26D9A9A4-8EC1-458D-AA14-EF923ABD3F36</string>
 		</dict>
-		<key>2FE8CA22-EEE2-4DBD-AAC6-34A8BC91110E</key>
+		<key>41518ABD-B79D-428B-982D-FDBDD19C5DA1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -127,7 +71,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2FE8CA22-EEE2-4DBD-AAC6-34A8BC91110E.xcactivitylog</string>
+			<string>41518ABD-B79D-428B-982D-FDBDD19C5DA1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -136,17 +80,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>698528318.82333803</real>
+			<real>699044862.58804595</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>2FE8CA22-EEE2-4DBD-AAC6-34A8BC91110E</string>
+			<string>41518ABD-B79D-428B-982D-FDBDD19C5DA1</string>
 		</dict>
-		<key>3B4E4A6D-8355-4495-9E28-6196A6591FA9</key>
+		<key>58EA2BA7-467E-4FF9-945A-D69BF41E0AAA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -155,7 +99,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3B4E4A6D-8355-4495-9E28-6196A6591FA9.xcactivitylog</string>
+			<string>58EA2BA7-467E-4FF9-945A-D69BF41E0AAA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>698871678.85644603</real>
+			<key>timeStoppedRecording</key>
+			<real>698871680.27605104</real>
+			<key>title</key>
+			<string>Build FoodScaner</string>
+			<key>uniqueIdentifier</key>
+			<string>58EA2BA7-467E-4FF9-945A-D69BF41E0AAA</string>
+		</dict>
+		<key>765B0049-2962-48F5-9117-5F57B7DF8A78</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>765B0049-2962-48F5-9117-5F57B7DF8A78.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -166,15 +138,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528459.272035</real>
+			<real>698871678.85644603</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>3B4E4A6D-8355-4495-9E28-6196A6591FA9</string>
+			<string>765B0049-2962-48F5-9117-5F57B7DF8A78</string>
 		</dict>
-		<key>3BABDDC4-E92F-4389-B450-73F78CB61981</key>
+		<key>8704A851-39C5-4F4E-BD49-99BB61BB32D3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -183,7 +155,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3BABDDC4-E92F-4389-B450-73F78CB61981.xcactivitylog</string>
+			<string>8704A851-39C5-4F4E-BD49-99BB61BB32D3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -194,15 +166,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528115.742643</real>
+			<real>699043591.12606704</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>3BABDDC4-E92F-4389-B450-73F78CB61981</string>
+			<string>8704A851-39C5-4F4E-BD49-99BB61BB32D3</string>
 		</dict>
-		<key>3F47F521-2B40-436C-8568-3097F4E47431</key>
+		<key>96FFF063-CBFB-486C-9AC2-259A6D916464</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -211,7 +183,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3F47F521-2B40-436C-8568-3097F4E47431.xcactivitylog</string>
+			<string>96FFF063-CBFB-486C-9AC2-259A6D916464.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>699043630.57062697</real>
+			<key>timeStoppedRecording</key>
+			<real>699043630.60453796</real>
+			<key>title</key>
+			<string>Build FoodScaner</string>
+			<key>uniqueIdentifier</key>
+			<string>96FFF063-CBFB-486C-9AC2-259A6D916464</string>
+		</dict>
+		<key>A7681E08-9CBE-4601-AF64-E8E98CDE5631</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A7681E08-9CBE-4601-AF64-E8E98CDE5631.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -222,15 +222,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528322.99992204</real>
+			<real>699043611.87067294</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>699043611.92449296</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>3F47F521-2B40-436C-8568-3097F4E47431</string>
+			<string>A7681E08-9CBE-4601-AF64-E8E98CDE5631</string>
 		</dict>
-		<key>3F7DCE9B-6448-45AD-B6F9-EE01EEABED5F</key>
+		<key>AA987FB4-1286-450B-A0FE-A8795A193040</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -239,91 +239,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3F7DCE9B-6448-45AD-B6F9-EE01EEABED5F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528322.99992204</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>3F7DCE9B-6448-45AD-B6F9-EE01EEABED5F</string>
-		</dict>
-		<key>448BEFF4-B773-40C5-B49B-A5777D6226E8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>448BEFF4-B773-40C5-B49B-A5777D6226E8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>698528375.99696803</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>448BEFF4-B773-40C5-B49B-A5777D6226E8</string>
-		</dict>
-		<key>533A20AB-A4B7-4744-A16C-5026FA9D3554</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>533A20AB-A4B7-4744-A16C-5026FA9D3554.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>698528363.826051</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>533A20AB-A4B7-4744-A16C-5026FA9D3554</string>
-		</dict>
-		<key>5FFF55BC-5D6F-4BFC-BA09-D6C534116EE7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5FFF55BC-5D6F-4BFC-BA09-D6C534116EE7.xcactivitylog</string>
+			<string>AA987FB4-1286-450B-A0FE-A8795A193040.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -334,15 +250,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528363.826051</real>
+			<real>699043630.57062697</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>699043630.60453796</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>5FFF55BC-5D6F-4BFC-BA09-D6C534116EE7</string>
+			<string>AA987FB4-1286-450B-A0FE-A8795A193040</string>
 		</dict>
-		<key>634969FC-65E3-498A-9A53-02AA63AA23B1</key>
+		<key>B1D732AA-F981-4489-BF8A-0796D26EAB6C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -351,91 +267,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>634969FC-65E3-498A-9A53-02AA63AA23B1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>698528459.272035</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>634969FC-65E3-498A-9A53-02AA63AA23B1</string>
-		</dict>
-		<key>748B3D86-AD41-4A60-9251-EA9397D0E1D9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>748B3D86-AD41-4A60-9251-EA9397D0E1D9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528318.82333803</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>748B3D86-AD41-4A60-9251-EA9397D0E1D9</string>
-		</dict>
-		<key>7728DFC2-DBF3-4429-B8E4-EFFB77A9ED0A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7728DFC2-DBF3-4429-B8E4-EFFB77A9ED0A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528326.57149398</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>7728DFC2-DBF3-4429-B8E4-EFFB77A9ED0A</string>
-		</dict>
-		<key>79A2ADBA-5ACE-48D4-8E3F-5B2E6C43DA1F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>79A2ADBA-5ACE-48D4-8E3F-5B2E6C43DA1F.xcactivitylog</string>
+			<string>B1D732AA-F981-4489-BF8A-0796D26EAB6C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -446,15 +278,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528459.272035</real>
+			<real>699044862.58804595</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>79A2ADBA-5ACE-48D4-8E3F-5B2E6C43DA1F</string>
+			<string>B1D732AA-F981-4489-BF8A-0796D26EAB6C</string>
 		</dict>
-		<key>9667469D-715E-45D4-91E7-A7D38A3162FB</key>
+		<key>BCD892E4-6D7F-4B15-A4FF-B1863A0C84C4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -463,63 +295,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9667469D-715E-45D4-91E7-A7D38A3162FB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>698528115.742643</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>9667469D-715E-45D4-91E7-A7D38A3162FB</string>
-		</dict>
-		<key>BA940531-3197-4CAA-9446-75EC25F0F4B9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BA940531-3197-4CAA-9446-75EC25F0F4B9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>698528483.51181698</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>BA940531-3197-4CAA-9446-75EC25F0F4B9</string>
-		</dict>
-		<key>BC978228-8C32-42EF-83A8-9393F894E3EA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BC978228-8C32-42EF-83A8-9393F894E3EA.xcactivitylog</string>
+			<string>BCD892E4-6D7F-4B15-A4FF-B1863A0C84C4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -530,15 +306,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528363.826051</real>
+			<real>698871678.85644603</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>698871680.27605104</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>BC978228-8C32-42EF-83A8-9393F894E3EA</string>
+			<string>BCD892E4-6D7F-4B15-A4FF-B1863A0C84C4</string>
 		</dict>
-		<key>C099EF12-4813-4D4A-AFB5-33D8364A08A2</key>
+		<key>C5DEE7BB-BC21-474E-A1D5-42711461515C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -547,91 +323,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C099EF12-4813-4D4A-AFB5-33D8364A08A2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>698528326.57149398</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>C099EF12-4813-4D4A-AFB5-33D8364A08A2</string>
-		</dict>
-		<key>CD9CB87F-F055-44D5-8EAA-41F696A7297A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CD9CB87F-F055-44D5-8EAA-41F696A7297A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>698528322.99992204</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>CD9CB87F-F055-44D5-8EAA-41F696A7297A</string>
-		</dict>
-		<key>CF5B236B-F244-40C2-ABEB-A6E1F3A5056C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CF5B236B-F244-40C2-ABEB-A6E1F3A5056C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528375.99696803</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>CF5B236B-F244-40C2-ABEB-A6E1F3A5056C</string>
-		</dict>
-		<key>D0DE1C62-AB34-48F5-9748-FE9D12E78333</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D0DE1C62-AB34-48F5-9748-FE9D12E78333.xcactivitylog</string>
+			<string>C5DEE7BB-BC21-474E-A1D5-42711461515C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -642,15 +334,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>698528483.51181698</real>
+			<real>699043611.87067294</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>699043611.92449296</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>D0DE1C62-AB34-48F5-9748-FE9D12E78333</string>
+			<string>C5DEE7BB-BC21-474E-A1D5-42711461515C</string>
 		</dict>
-		<key>D330CD41-CF7A-4639-8BF2-ACEC5B1979CC</key>
+		<key>DBD6AA0F-70A0-42FA-8C34-7ABBF7A77244</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -659,91 +351,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D330CD41-CF7A-4639-8BF2-ACEC5B1979CC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528468.95041096</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>D330CD41-CF7A-4639-8BF2-ACEC5B1979CC</string>
-		</dict>
-		<key>D3A5EDBD-3077-45AA-BBAD-EDE093332374</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D3A5EDBD-3077-45AA-BBAD-EDE093332374.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528483.51181698</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>D3A5EDBD-3077-45AA-BBAD-EDE093332374</string>
-		</dict>
-		<key>E0A57733-E8C0-476E-9FE1-2A7DC3EB15F0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E0A57733-E8C0-476E-9FE1-2A7DC3EB15F0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>698528468.95041096</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build FoodScaner</string>
-			<key>uniqueIdentifier</key>
-			<string>E0A57733-E8C0-476E-9FE1-2A7DC3EB15F0</string>
-		</dict>
-		<key>FAC60E36-E29F-48EA-A1A0-790AF76A47C4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FAC60E36-E29F-48EA-A1A0-790AF76A47C4.xcactivitylog</string>
+			<string>DBD6AA0F-70A0-42FA-8C34-7ABBF7A77244.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -754,13 +362,97 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>698528468.95041096</real>
+			<real>699043591.12606704</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build FoodScaner</string>
 			<key>uniqueIdentifier</key>
-			<string>FAC60E36-E29F-48EA-A1A0-790AF76A47C4</string>
+			<string>DBD6AA0F-70A0-42FA-8C34-7ABBF7A77244</string>
+		</dict>
+		<key>F0ABEEFF-7C41-41CA-BDE0-4697ED93B97F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F0ABEEFF-7C41-41CA-BDE0-4697ED93B97F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hcnRlbWtcL0RldmVsb3BlclwvRm9vZFNjYW5lclwvRm9vZFNjYW5lci54Y29kZXByb2oifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>699043630.57062697</real>
+			<key>timeStoppedRecording</key>
+			<real>699043630.60453796</real>
+			<key>title</key>
+			<string>Build FoodScaner</string>
+			<key>uniqueIdentifier</key>
+			<string>F0ABEEFF-7C41-41CA-BDE0-4697ED93B97F</string>
+		</dict>
+		<key>FBFD6525-35B2-49B3-A039-15A0145C9166</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBFD6525-35B2-49B3-A039-15A0145C9166.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>699044862.58804595</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build FoodScaner</string>
+			<key>uniqueIdentifier</key>
+			<string>FBFD6525-35B2-49B3-A039-15A0145C9166</string>
+		</dict>
+		<key>FEADDD80-6D57-401A-8D31-C1C856726806</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FEADDD80-6D57-401A-8D31-C1C856726806.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXJ0ZW1rXC9EZXZlbG9wZXJcL0Zvb2RTY2FuZXJcL0Zvb2RTY2FuZXIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJCODY5QjE0MDI5QTJCMEZEMDBBQzU5MkQifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>698871678.85644603</real>
+			<key>timeStoppedRecording</key>
+			<real>698871680.27605104</real>
+			<key>title</key>
+			<string>Build FoodScaner</string>
+			<key>uniqueIdentifier</key>
+			<string>FEADDD80-6D57-401A-8D31-C1C856726806</string>
 		</dict>
 	</dict>
 </dict>
